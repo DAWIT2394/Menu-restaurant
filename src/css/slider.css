@@ -1,0 +1,17 @@
+.slider-container {
+  overflow: hidden;
+
+  border-radius: 1rem;
+}
+
+.slider {
+  display: flex;
+  transition: transform 0.5s ease;
+}
+
+.slider img {
+  width: 21%;
+  height: auto;
+  justify-content: space-around;
+  display: flex;
+}

@@ -1,0 +1,23 @@
+.containerf{
+    background-color: rgba(186, 154, 154, 0.935);
+    margin-top: 14rem;
+}
+.row{
+    display: flex;
+    justify-content: space-around;
+    font-weight: bold;
+}
+.title h3{
+    color:#460a0a ;
+    font-weight: bold;
+    font-size: 20px;
+    text-decoration: underline;
+    
+
+}
+.t2 h3{
+    color:#460a0a ;
+    font-weight: bold;
+    font-size: 20px;
+    text-decoration: underline;
+}
