@@ -113,14 +113,17 @@
  .scroll-container {
   overflow-x: auto; /* Enable horizontal scrolling */
   white-space: nowrap; /* Prevent images from wrapping */
-  padding: 10px;
+  padding: 15px;
+  
 overflow-y: hidden;
 
 }
 
 .scroll-container img {
   border-radius: 2rem;
-  max-width: 30%; /* Ensure the image width does not exceed its container */
-  height: auto; /* Maintain the aspect ratio of the images */
+  max-width: 8%; /* Ensure the image width does not exceed its container */
+  height: auto;
+  padding: 5px; /* Maintain the aspect ratio of the images */
 }
+
 
